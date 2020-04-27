@@ -1,0 +1,37 @@
+*{
+  font-family: 'Baloo Bhaina 2', cursive;
+  background-color: #CEDBE1;
+  font-weight: 400;
+  color: #2b2b2b;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.intro_header{
+  font-weight: 400;
+  font-size:25px;
+}
+
+.intro_name{
+  font-weight: 700;
+}
+
+.sub_header{
+  font-weight: 700;
+}
+.sub_text{
+  font-size: 20px;
+}
+a{
+  color:#2b2b2b;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+a:hover {
+  color:white;
+}
